@@ -11,3 +11,6 @@ the player if they score 30 or more points. Colors enhance the game's text inter
 # Plush Toy Order System
 Program takes buyer information and the number of toys ordered. Then, it calculates production time, 
 total cost, manufacturer income, and buyer expenses, displaying a summary of the order.
+
+# Rock Paper Scissors Lizard Spock!
+Text-based gamed. First, each player must choose between one of the five options: Rock, Paper, Scissors, Lizard, or Spock. Rock beats scissors and lizard, paper beats rock and spock, scissors beats paper and lizard, lizard beats spock and paper, and spock beats scissors and rock
